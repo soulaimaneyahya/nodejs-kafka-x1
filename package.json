@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-kafka",
+  "version": "1.0.0",
+  "main": "topic.js",
+  "keywords": [
+    "nodejs-kafka"
+  ],
+  "author": "nodejs-kafka",
+  "license": "ISC",
+  "description": "nodejs-kafka",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
